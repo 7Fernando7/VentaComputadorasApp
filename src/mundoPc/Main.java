@@ -1,4 +1,5 @@
 package mundoPc;
+import mundoPc.modelo.Computadora;
 import mundoPc.modelo.Monitor;
 import mundoPc.modelo.Raton ;
 import mundoPc.modelo.Teclado;
@@ -13,6 +14,17 @@ public class Main {
         System.out.println(tecladoLenovo);
         Monitor monitorLenovo = new Monitor("Lenovo", 27);
         System.out.println(monitorLenovo);
+
+        //Objeto de tipo computadora
+
+        Computadora computadoraLenovo =
+                new Computadora(
+                        "ComputadoraLenovo",
+                                monitorLenovo,
+                                tecladoLenovo,
+                                ratonLenovo
+        );
+        System.out.println(computadoraLenovo);
 
     }
 }
