@@ -1,11 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="885052d8-a065-4f37-aadb-6ad590c01063" name="Changes" comment="" />
+    <list default="true" id="885052d8-a065-4f37-aadb-6ad590c01063" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/mundoPc/modelo/Raton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mundoPc/modelo/Teclado.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mundoPc/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mundoPc/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mundoPc/modelo/DispositivoEntrada.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mundoPc/modelo/DispositivoEntrada.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -23,7 +38,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "onboarding.tips.debug.path": "C:/Users/Fernando/Documents/workSpaceCursoJava13Dias/VentaComputadorasApp/src/Main.java"
   }
 }]]></component>
@@ -42,8 +57,8 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>13</line>
+          <url>file://$PROJECT_DIR$/src/mundoPc/Main.java</url>
+          <line>5</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
