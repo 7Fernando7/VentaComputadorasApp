@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="885052d8-a065-4f37-aadb-6ad590c01063" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/mundoPc/modelo/Raton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mundoPc/modelo/Teclado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mundoPc/modelo/Monitor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/mundoPc/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mundoPc/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mundoPc/modelo/DispositivoEntrada.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mundoPc/modelo/DispositivoEntrada.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +41,26 @@
     "onboarding.tips.debug.path": "C:/Users/Fernando/Documents/workSpaceCursoJava13Dias/VentaComputadorasApp/src/Main.java"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mundoPc.Main" />
+      <module name="VentaComputadorasApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mundoPc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -52,16 +71,5 @@
       <updated>1721334949899</updated>
     </task>
     <servers />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/mundoPc/Main.java</url>
-          <line>5</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
